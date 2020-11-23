@@ -1,0 +1,2 @@
+- sql para la creación de la estructura de la BDD
+- 21GIIN.mwb contiene el diseño del diagrama de tablas realizado con MySQL Workbench 
